@@ -1,0 +1,43 @@
+.btn-outline-success{
+	margin: 0px 10px;
+	color: white;
+	border: 1px solid white;
+}
+
+.secondnav{
+
+	margin-top: 56px;
+}
+
+.secondNavItems{
+	font-weight: bold;
+	margin-right: 40px; 
+}
+
+.movingImg{
+	max-height: 250px;
+}
+
+.card{
+	margin: 10px;
+}
+
+#ourproducts{
+	text-align: center;
+	margin: 5px;
+	margin-top: 10px;
+	text-decoration: underline;
+}
+
+.navbar-text{
+	font-weight: bold;
+	margin-right: 15px;
+}
+
+.btn-danger{
+	background: #343a40;
+}
+
+#viewProducts{
+	font-weight: bold;
+}

@@ -4,4 +4,4 @@
 #### Techonology Stack : PHP,JavaScript,HTML5,CSS3,jQuery,APIs.
 
  # Screenshots
-![alt text](https://github.com/karthik261099/BookShare/blob/master/README/Screenshot%20\10).png "1")
+![alt text](https://github.com/karthik261099/BookShare/blob/master/README/Screenshot10.png "1")
